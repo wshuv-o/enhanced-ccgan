@@ -1,0 +1,6 @@
+
+===================================================================================================
+Traceback (most recent call last):
+  File "E:\Desktop\OneDrive\desktop\CcGAN\main.py", line 24, in <module>
+    os.chdir(wd)
+FileNotFoundError: [WinError 2] The system cannot find the file specified: './CcGAN'
